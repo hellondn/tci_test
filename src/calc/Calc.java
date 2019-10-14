@@ -23,7 +23,7 @@ public class Calc
 }
 class CalculatorFrame extends JFrame {
     public CalculatorFrame() {
-        setTitle("Calculator");
+        setTitle("calculator");
         CalculatorPanel panel = new CalculatorPanel();
         add(panel);
         pack();
