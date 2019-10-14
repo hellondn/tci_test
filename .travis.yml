@@ -1,3 +1,5 @@
 language: java
-os:
-    - linux
+os: 
+    -linux
+    -osx
+ 
