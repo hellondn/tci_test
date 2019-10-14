@@ -1,6 +1,6 @@
 sudo: required 
 language: java
 os: linux
-env: ARCH = i386
+arch: i386
 
 
