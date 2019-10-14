@@ -1,4 +1,6 @@
 sudo: required 
 language: java
 os: linux
-env: TARGET_CPU=x86
+env: ARCH = i386
+
+
