@@ -7,6 +7,9 @@ package calc;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+import com.sun.jna.win32.W32APIOptions;
+import com.sun.jna.win32.StdCallLibrary;
+import com.sun.jna.platform.win32.WinDef.HWND;
 
 public class Calc
 {
@@ -73,9 +76,6 @@ class CalculatorPanel extends JPanel {
         JButton button = new JButton(label);
         button.addActionListener(listener);
         panel.add(button);
-        fadslklkdsfj
-            afmlmfladskflasfl
-            aflsdff
     }
     private class InsertAction implements ActionListener 
     {
