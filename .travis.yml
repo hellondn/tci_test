@@ -1,6 +1,5 @@
 sudo: required 
 language: java
 os: linux
-arch: i386
 
 
