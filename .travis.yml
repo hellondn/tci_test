@@ -2,8 +2,6 @@ sudo: required
 language: java
 dist:
 - xenial
-- bionic
-- trusty
 jdk: 
 - oraclejdk13
 - openjdk8
