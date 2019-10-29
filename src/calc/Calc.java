@@ -7,9 +7,9 @@ package calc;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import com.sun.jna.win32.W32APIOptions;
+/*import com.sun.jna.win32.W32APIOptions;
 import com.sun.jna.win32.StdCallLibrary;
-import com.sun.jna.platform.win32.WinDef.HWND;
+import com.sun.jna.platform.win32.WinDef.HWND;*/
 
 public class Calc
 {
