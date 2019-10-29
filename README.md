@@ -1,2 +1,2 @@
 # tci_test
-travisCI test
+TravisCI test
