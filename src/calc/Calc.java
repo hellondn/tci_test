@@ -73,6 +73,9 @@ class CalculatorPanel extends JPanel {
         JButton button = new JButton(label);
         button.addActionListener(listener);
         panel.add(button);
+        fadslklkdsfj
+            afmlmfladskflasfl
+            aflsdff
     }
     private class InsertAction implements ActionListener 
     {
