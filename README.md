@@ -1,2 +1,2 @@
 # tci_test
-Travis-CI test
+Travis-CI test functions
