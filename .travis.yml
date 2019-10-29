@@ -1,11 +1,14 @@
 sudo: required 
 language: java
 dist:
--xenial
--bionic
--trusty
+- xenial
+- bionic
+- trusty
 jdk: 
 - oraclejdk13
 - openjdk8
+branches:
+  only:
+  - master
 
 
