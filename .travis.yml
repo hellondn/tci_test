@@ -1,5 +1,13 @@
 sudo: required 
 language: java
-os: linux
+os: 
+- linux
+- osx
+jdk: 
+- oraclejdk8
+- openjdk8
+branches:
+  only:
+  - master
 
 
