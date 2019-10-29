@@ -7,8 +7,5 @@ dist:
 jdk: 
 - oraclejdk13
 - openjdk8
-branches:
-  only:
-  - master
 
 
